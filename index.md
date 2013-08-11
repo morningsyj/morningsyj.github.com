@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: MorningSYJ
+tagline: 记录学习和生活的点滴
 ---
 {% include JB/setup %}
 

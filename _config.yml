@@ -12,7 +12,6 @@ title : MorningSYJ
 tagline: Site Tagline
 author :
   name : Yeji Shen
-<<<<<<< HEAD
   email : morningsyj@gmail.com
   github : morningsyj
   twitter :  
@@ -22,7 +21,6 @@ author :
   github : morningsyj
   twitter : 
   feedburner : 
->>>>>>> 494bab2a59012ef45f76eb9b50acdb23e29c0b61
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

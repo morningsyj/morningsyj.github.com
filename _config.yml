@@ -12,10 +12,17 @@ title : MorningSYJ
 tagline: Site Tagline
 author :
   name : Yeji Shen
+<<<<<<< HEAD
   email : morningsyj@gmail.com
   github : morningsyj
   twitter :  
   feedburner :  
+=======
+  email : morningsyj@163.com
+  github : morningsyj
+  twitter : 
+  feedburner : 
+>>>>>>> 494bab2a59012ef45f76eb9b50acdb23e29c0b61
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +32,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://morningsyj.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

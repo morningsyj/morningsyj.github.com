@@ -10,13 +10,13 @@ permalink: /:year/:month/:day/:title
 
 # Setup
 title: MorningSYJ
-tagline: 'Algorithm, Technology, Life'
+tagline: '醒醒'
 description: '关注算法，计算机视觉和其他好玩的东西'
 url: http://morningsyj.github.io
 domain: morningsyj.github.io
-#twitterID: ztpala
-#timezone: America/New_York
-#subscribe: http://ztpala.com/atom.xml
+#twitterID: 
+#timezone: 
+#subscribe: 
 exclude: [ README.md, newpost.rb, CNAME ]
 
 author:

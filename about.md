@@ -3,4 +3,8 @@ layout: page
 title: About Me
 permalink: /About/
 ---
-* Yeji Shen at Peking University
+* 姓名：沈业基
+* 学校：长郡中学 -> 北京大学
+* 研究兴趣：计算机视觉
+* 喜欢的东西：算法、吐槽、动画、棒垒球、（被）科普、（黑）历史、散步、发呆、脑洞、西瓜、肉
+* 不喜欢的东西：（严格的）证明、愚昧、被三振、插队、鱼刺、碎骨头

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hough-transform
+title: 霍夫变换与直线探测
 categories:
     - 学术
 tags:
